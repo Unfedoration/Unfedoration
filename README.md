@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Unfedoration
+- 👀 I’m interested in Python / Lua
+- 🌱 I’m currently learning Both
